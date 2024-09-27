@@ -1,0 +1,15 @@
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\bin\Debug\net8.0\mis-221-lab-4-ceboykin2.exe
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\bin\Debug\net8.0\mis-221-lab-4-ceboykin2.deps.json
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\bin\Debug\net8.0\mis-221-lab-4-ceboykin2.runtimeconfig.json
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\bin\Debug\net8.0\mis-221-lab-4-ceboykin2.dll
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\bin\Debug\net8.0\mis-221-lab-4-ceboykin2.pdb
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\mis-221-lab-4-ceboykin2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\mis-221-lab-4-ceboykin2.AssemblyInfoInputs.cache
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\mis-221-lab-4-ceboykin2.AssemblyInfo.cs
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\mis-221-lab-4-ceboykin2.csproj.CoreCompileInputs.cache
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\mis-221-lab-4-ceboykin2.sourcelink.json
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\mis-221-lab-4-ceboykin2.dll
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\refint\mis-221-lab-4-ceboykin2.dll
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\mis-221-lab-4-ceboykin2.pdb
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\mis-221-lab-4-ceboykin2.genruntimeconfig.cache
+C:\Users\clair\OneDrive\Documents\Source\Fall2024Repos\Labs\mis-221-lab-4-ceboykin2\obj\Debug\net8.0\ref\mis-221-lab-4-ceboykin2.dll
